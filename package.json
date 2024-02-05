@@ -2,7 +2,13 @@
   "devDependencies": {
     "jest": "^29.7.0"
   },
-  "scripts":{
-    "test":"jest"
-  }
+  "scripts": {
+    "test": "jest"
+  },
+  "name": "testing-abns-labs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }
